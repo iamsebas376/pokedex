@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="Img/logo.svg" alt="Pokedex Logo" />
-</p>
+
+![Logo](https://iamsebas376.github.io/pokedex/Img/logo.svg)
 
 Una Pokedex es una herramienta esencial para cualquier entrenador Pokémon que quiera conocer información sobre diferentes tipos de Pokémon. Este proyecto es una Pokedex web desarrollada por Iamsebas376, que te permite explorar y aprender sobre los Pokémon.
 
